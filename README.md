@@ -1,31 +1,54 @@
-# Hi, I'm Gaurav 👋
+# Hi 👋 I'm Gaurav Patel
 
-Backend Developer
+Backend Software Engineer | Java | Spring Boot | Distributed Systems
 
-## Tech Stack
+---------------------------------------------------------
 
-- Java
-- Spring Boot
-- Redis
-- PostgreSQL
-- Docker
-- React
-- C++
+🚀 Building
+MultiMind AI Platform
 
-## Current Projects
+🌱 Currently Learning
+Kafka
+Kubernetes
+System Design
 
-- MultiMind AI Platform
-- College ERP
-- Distributed Chat System
+💻 Tech Stack
 
-## Currently Learning
+Java
+Spring Boot
+Redis
+PostgreSQL
+Docker
+React
+Next.js
+TypeScript
+C++
+Python
 
-- Kafka
-- Kubernetes
-- System Design
+---------------------------------------------------------
 
-## Connect
+🏆 Featured Projects
+
+🧠 MultiMind AI Platform
+
+♟ Chess Backend
+
+🏫 College ERP
+
+💬 Distributed Chat Application
+
+---------------------------------------------------------
+
+📊 GitHub Stats
+
+(stat cards)
+
+---------------------------------------------------------
+
+📫 Connect
 
 LinkedIn
+
 Portfolio
+
 Email
