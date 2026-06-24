@@ -1,57 +1,128 @@
-# Hi 👋 I'm Gaurav Patel
+<h1 align="center">Hi 👋, I'm Gaurav Patel</h1>
+<h3 align="center">Backend Software Engineer | Java | Spring Boot | Distributed Systems</h3>
 
-Backend Software Engineer | Java | Spring Boot | Distributed Systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
----------------------------------------------------------
+---
 
-🚀 Building
-MultiMind AI Platform
+## 🚀 About Me
 
-🌱 Currently Learning
-Kafka
-Kubernetes
-System Design
+- 🔭 Currently building **MultiMind AI Platform**
+- 🌱 Learning **Kafka, Kubernetes, System Design**
+- 💬 Ask me about **Java, Spring Boot, Redis, PostgreSQL, Backend Development**
+- ⚡ Passionate about building scalable backend systems and AI infrastructure
 
-💻 Tech Stack
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=reactjs&theme=light)](https://skillicons.dev)
+---
 
-Java
-Spring Boot
-Redis
-PostgreSQL
-Docker
-React
-Next.js
-TypeScript
-C++
-Python
+## 💻 Tech Stack
 
----------------------------------------------------------
+<p align="center">
 
-🏆 Featured Projects
+<img src="https://skillicons.dev/icons?i=java,spring,redis,postgres,docker,kafka,kubernetes,react,nextjs,ts,git,linux,cpp,python&perline=7" />
 
-🧠 MultiMind AI Platform
+</p>
 
-♟ Chess Backend
+---
 
-🏫 College ERP
+## 🏆 Featured Projects
 
-💬 Distributed Chat Application
+### 🧠 MultiMind AI Platform
 
----------------------------------------------------------
+Enterprise AI Platform supporting
 
-📊 GitHub Stats
+- Multi-Tenant Architecture
+- Campus Admin Dashboard
+- AI Model Routing
+- Token Management
+- JWT Authentication
+- Redis Caching
+- PostgreSQL
+- Docker Deployment
 
-(stat cards)
+---
 
----------------------------------------------------------
+### ♟ Chess Backend
 
-📫 Connect
+- Complete chess engine
+- Move validation
+- OOP architecture
 
-LinkedIn
+---
 
-Portfolio
+### 🏫 College ERP
 
-Email
+- Student Management
+- Attendance
+- Academics
+- Authentication
+
+---
+
+### 💬 Distributed Chat Application
+
+- Thread-safe backend
+- Real-time messaging
+- Java Networking
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Scaling MultiMind AI Platform
+- ⚙️ Microservices Architecture
+- 📦 Redis & Kafka
+- 🐳 Docker & Kubernetes
+- ☁️ Distributed Systems
+- 🤖 AI Infrastructure
+
+---
+
+> *"First solve the problem. Then write clean and scalable code."*
