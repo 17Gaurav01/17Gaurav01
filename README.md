@@ -13,6 +13,7 @@ Kubernetes
 System Design
 
 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
 
 Java
 Spring Boot
