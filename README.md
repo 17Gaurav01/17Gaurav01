@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Patel</h1>
-<h3 align="center">Backend Software Engineer | Java | Spring Boot | Distributed Systems</h3>
+<h3 align="center">Backend Software Engineer | AI | RAG | Agentic RAG | Java | Spring Boot | Distributed Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=17Gaurav01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
