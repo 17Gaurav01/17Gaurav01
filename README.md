@@ -13,7 +13,11 @@ Kubernetes
 System Design
 
 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![Spring Boot](https://skillicons.dev/icons?i=spring boot&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=Redis&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=PostgresSQL&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=Docker&theme=light)](https://skillicons.dev)
 
 Java
 Spring Boot
