@@ -14,10 +14,8 @@ System Design
 
 💻 Tech Stack
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Spring Boot](https://skillicons.dev/icons?i=spring boot&theme=light)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=Redis&theme=light)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=PostgresSQL&theme=light)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=Docker&theme=light)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=reactjs&theme=light)](https://skillicons.dev)
 
 Java
 Spring Boot
