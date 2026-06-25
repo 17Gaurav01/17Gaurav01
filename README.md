@@ -147,14 +147,23 @@ Enterprise AI Platform supporting
 ---
 ### 🧠 AI Workforce Platform
 
+- AI Employees & Multi-Agent Systems
+- Agentic AI (Memory, Planning, Reasoning)
+- RAG Knowledge Base
+- Workflow & Task Automation
+- Multi-Model AI Routing
+- Business Tool Integrations
+- Analytics & Observability
+- Team & Workspace Management
+- SaaS Billing & Token Controls
+- Enterprise Security & RBAC
+
 
 ### ♟ Chess Backend
 
 - Complete chess engine
 - Move validation
 - OOP architecture
-
----
 
 
 
