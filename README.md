@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **MultiMind AI Platform**
 - 🌱 Learning **Kafka, Kubernetes, System Design, Agentic AI, Generative AI**
 - 💬 Ask me about **Java, Spring Boot, Redis, PostgreSQL, Backend Development**
 - ⚡ Passionate about building scalable backend systems and AI infrastructure
@@ -131,20 +130,6 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 MultiMind AI Platform
-
-Enterprise AI Platform supporting
-
-- Multi-Tenant Architecture
-- Campus Admin Dashboard
-- AI Model Routing
-- Token Management
-- JWT Authentication
-- Redis Caching
-- PostgreSQL
-- Docker Deployment
-
----
 ### 🧠 AI Workforce Platform
 
 - AI Employees & Multi-Agent Systems
