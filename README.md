@@ -210,7 +210,7 @@
 
 ## 📌 Current Focus
 
-- 🚀 Scaling MultiMind AI Platform
+- 🚀 Scaling AI-Workforce AI Platform
 - ⚙️ Microservices Architecture
 - 📦 Redis & Kafka
 - 🐳 Docker & Kubernetes
